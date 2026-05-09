@@ -6,10 +6,13 @@ const skillCardData = ["JavaScript", "React.js", "Node.js", "CSS", "HTML", "Git"
 
 export default function SkillCard() {
     return (
-        <div>
+        <div className="flex flex-wrap items-center bg-white rounded-lg shadow-md p-6 mb-8 w-full">
+            <div className="w-full">
+                <h2 className="text-xl font-bold w-full mb-4 text-black text-center">Skills</h2>
+            </div>
             {skillCardData.map((skill, index) => (
-                <div key={index}>
-                    <h3>{skill}</h3>
+                <div key={index} className="m-2">
+                    <h3 className="text-black font-semibold border border-gray-300 rounded-md p-2 hover:bg-gray-500 cursor-pointer">{skill}</h3>
                 </div>
             ))}
         </div>
