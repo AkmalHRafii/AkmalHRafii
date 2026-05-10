@@ -5,7 +5,7 @@ const profile = {
   name: "Akmal H. Rafii",
   title: "Full Stack Developer",
   description:
-    "A Manga, Anime, and Game enthusiast with a background in Japanese Studies, have been working as a hotel staff at a traditional Japanese inn for 2 years, and recently graduated from Hacktiv8 Full Stack JavaScript Bootcamp. Why? Because i want to skill up myself in programming. To be honest, i always have an interest in programming since i was in high school, but i never have the courage to pursue it until i finally decided to take the leap and join the bootcamp. I am passionate about learning new technologies and continuously improving my skills as a developer.",
+    "A Manga, Anime, and Game enthusiast with a background in Japanese Studies, have been working as a hotel staff at a traditional Japanese inn for 2 years, and recently graduated from Hacktiv8 Full Stack JavaScript Bootcamp. Why? Because i want to skill up myself in programming. To be honest, i always have an interest in programming since i was in high school, but i never have the courage to pursue it until i finally decided to take the leap and join the bootcamp. I am passionate about learning new technologies and continuously improving my skills as a developer. I also intrested in AI, if you know 'Fairy' from 'Zenless Zone Zero', 'KETSU' from 'Heaven Burns Red', or 'Arona' from 'Blue Archive', it's my dream to create an AI like them in the future. At least, i want one for myself, haha.",
   imageUrl: "profile.jpg",
   email: "ahhikaru@gmail.com",
   birthDate: "March 1999",
