@@ -1,9 +1,9 @@
 
-import ProfileCard from "./components/profileCard";
-import SkillCard from "./components/skillCard";
-import EducationCard from "./components/educationCard";
-import WorkExpCard from "./components/workExp";
-import ProjectCard from "./components/projectCard";
+import ProfileCard from "./components/ProfileCard";
+import SkillCard from "./components/SkillCard";
+import EducationCard from "./components/EducationCard";
+import WorkExpCard from "./components/WorkExp";
+import ProjectCard from "./components/ProjectCard";
 
 
 
